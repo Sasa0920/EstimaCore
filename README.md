@@ -1,5 +1,7 @@
 # 📚 SmartScores – AI-Based Student Performance Predictor
 
+<img width="1880" height="828" alt="smartscore1" src="https://github.com/user-attachments/assets/a9d9148e-8d95-41c4-9ce4-b5451b93dad3" />
+
 ## Project Overview
 
 **SmartScores** is a machine learning project designed to **predict student exam performance** based on their study habits, mental health, sleep, attendance, and part-time job status. The project demonstrates a complete ML workflow from **data preprocessing, model selection, evaluation, explainability**, to **deployment as an interactive web application** using Streamlit.
@@ -45,7 +47,7 @@
 
 ## 📦 Technologies Used
 
-* **Python 3.x**
+* **Python 3.12**
 * **Pandas & NumPy** – Data handling
 * **Matplotlib & Seaborn** – Data visualization
 * **Scikit-learn** – Machine learning & model evaluation
