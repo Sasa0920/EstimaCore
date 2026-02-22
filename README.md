@@ -1,6 +1,7 @@
 # 📚 SmartScores – AI-Based Student Performance Predictor
 
 <img width="1880" height="828" alt="smartscore1" src="https://github.com/user-attachments/assets/a9d9148e-8d95-41c4-9ce4-b5451b93dad3" />
+<img width="1881" height="832" alt="smartscore2" src="https://github.com/user-attachments/assets/f68d3e71-8c88-4ad6-8796-08fd6954bbc7" />
 
 ## Project Overview
 
