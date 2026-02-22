@@ -8,7 +8,7 @@ warnings.filterwarnings("ignore")
 st.set_page_config(page_title="SmartScores", page_icon="📚", layout="wide")
 
 # Load model
-model = joblib.load("best_model.pkl")
+model = joblib.load("final_best_model.pkl")
 
 # Custom CSS for better styling
 st.markdown("""
